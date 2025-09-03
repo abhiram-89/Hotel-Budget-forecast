@@ -40,11 +40,11 @@ Frontend (User Interface)
 
 Built with React.
 
-==> Uses Recharts for graphical visualization (line charts, bar charts, etc.).
+=> Uses Recharts for graphical visualization (line charts, bar charts, etc.).
 
-==> Tabular data display for historical vs. predicted values.
+=> Tabular data display for historical vs. predicted values.
 
-==> Interactive controls for running forecasts and viewing reports.
+=> Interactive controls for running forecasts and viewing reports.
 
 Tech Stack
 ----------
