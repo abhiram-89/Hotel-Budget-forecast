@@ -63,3 +63,9 @@ Features
 4.Accuracy evaluation metrics
 5.Report generation for business use
 6.Interactive dashboard with charts and tables
+
+
+Screenshots
+-------------![WhatsApp Image 2025-09-09 at 3 56 47 PM](https://github.com/user-attachments/assets/aec26612-4d63-4b2b-af96-84fe58a241f2)
+
+
